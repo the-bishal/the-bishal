@@ -11,18 +11,18 @@
 ---
 
 ## 🚀 Connect with me:  
-<p>
+<p align="left">
   <a href="https://linkedin.com/in/guptabishal15" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212750845-b1bc3d72-fc9b-4bd9-a901-50fdd3626d0d.gif" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://instagram.com/_bishal_001" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212750954-2a9bb6d3-c35a-4c90-8947-dfd9f76b4f78.gif" alt="Instagram" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://www.hackerrank.com/guptabishal111" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212751017-27f40e73-c33a-4d6d-bfb1-3d5f3ff2e3c0.gif" alt="HackerRank" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HackerRank-%2329B9A9.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
   <a href="https://www.leetcode.com/bishal15" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/212751109-c66db6b2-2dc4-4b1d-aed8-42e6c7cdecb7.gif" alt="LeetCode" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>  
 
@@ -32,23 +32,23 @@
 
 ### Frontend Technologies:  
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212751158-d56c3649-469d-4641-8035-bf2ed5a9646d.gif" alt="HTML5" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751214-e505ff6d-b95f-4e4f-a84f-b3c8bead606f.gif" alt="CSS3" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751269-05f9947a-c417-43e5-8adf-36de0de814dd.gif" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751319-7b3e173c-b511-4ed6-8e70-95e44a2a6a6c.gif" alt="React" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>  
 
 ### Backend Technologies:  
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212751409-70078c43-3e04-44e1-a5c7-caad4904c4b5.gif" alt="JavaScript" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751472-10a6c5df-d9bb-47b8-bd74-d34f8b2cfae1.gif" alt="Node.js" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751515-8cb4d6e4-bdab-4659-888d-b1578cc1a54a.gif" alt="Express.js" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751564-4ff234ed-94ef-4dd2-b468-d4962b26e197.gif" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>  
 
 ### Other Languages:  
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212751609-43aa97c4-5bcb-4e3b-9142-3e3f5487b45b.gif" alt="C" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751652-2ae12179-69f1-44de-9e0e-82645b1723ee.gif" alt="C++" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751692-7e52b48a-cbe3-4b5f-b47a-8b3f35a47e32.gif" alt="Python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>  
